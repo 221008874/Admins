@@ -1,0 +1,2 @@
+username:boda;password:221008874;full_name:Abdalrhman;email:admin@example.com;phone:+123456789;is_admin:true;is_blocked:false
+username:admin;password:adminpass123;full_name:Admin User;email:admin2@example.com;phone:+123456780;is_admin:true;is_blocked:false
